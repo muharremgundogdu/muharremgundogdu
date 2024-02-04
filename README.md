@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently studying computer engineering.<br>🌱 I’m currently learning C# , C.
+🔭 I'm currently studying computer engineering.<br>🌱 I’m currently learning C# , C , Python , Deep Learning , Image Processing..
 
 
 ## 🌐 Socials:
